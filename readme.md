@@ -20,7 +20,7 @@ Sistemas de Comunicaciones Digitales I - 2024
     - Control automático de ganancia.
     - Demoduladores sincrónicos y asincrónicos.
     - Sincronismo de símbolo.
-- Realiza simulaciones de moduladores y demoduladores para un canal de banda pasante con ruido blanco gaussiano aditivo. Modela los siguientes impedimentos: limitación de frecuencia, atenuación, desfasaje. Modela la discrepancia en frecuencia del oscilador local del receptor respecto del transmisor.
+- Realiza simulaciones de moduladores y demoduladores para un canal de banda pasante con ruido blanco gaussiano aditivo. Modela los siguientes impedimentos: limitación de frecuencia, atenuación, desfasaje. Modela la discrepancia en frecuencia del oscilador local del receptor respecto del transmisor. Evalúa la tasa de error de bit (Bit Error Rate, BER) en tus simulaciones.
 
 ## Entregables
 
