@@ -163,7 +163,7 @@ class ASK(gr.top_block, Qt.QWidget):
         self.top_layout.addWidget(self._qtgui_const_sink_x_0_win)
         self.digital_chunks_to_symbols_xx_0 = digital.chunks_to_symbols_bc([0, 1], 2)
         self.channels_channel_model_0 = channels.channel_model(
-            noise_voltage=0.0,
+            noise_voltage=0.05,
             frequency_offset=0.0,
             epsilon=1.0,
             taps=[1.0],
